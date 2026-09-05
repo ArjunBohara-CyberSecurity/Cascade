@@ -272,8 +272,6 @@ Time is concentrated on Stage 1 model rigor and the Stage 2 hallucination-rate e
 ## 👤 Authors
 
 - **Arjun Bohara**
-- **Vatsal Garg**
-
 ---
 
 ## 🌟 Support the Project
